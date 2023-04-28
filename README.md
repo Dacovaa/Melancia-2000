@@ -7,4 +7,4 @@
 * JavaScript
 ## :video_game: Faça a melancia mais poderosa que o mundo ja conheceu!
 
-## :pager: Acesse e teste as funcionalidades! 
+## :pager: Acesse e teste as funcionalidades! https://melancia-2000.vercel.app/
